@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 35px;
+  background-color: rgb(225, 113, 113);
+  text-align: center;
+  color: white;
+}
+
+img {
+  border: solid 3px;
+  padding: 4px;
+  border-color: aquamarine;
+  width: 300px;
+  height: 100%;
+}
+
+h1 {
+  border-top: solid 5px aquamarine;
+  color: white;
+  padding-top: 2em;
+}
+
+p {
+  border-bottom: dashed 5px aquamarine;
+  padding-bottom: 3em;
+
+}
+
+#insta {
+  background-image: url(instagram-logo.png);
+  display: inline-block;
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+#mail {
+  background-image: url(gmail-logo.jpg);
+  display: inline-block;
+  background-size: cover;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  color: whitesmoke;
+  text-decoration: none;
+}
+
+footer {
+  /* background-image: url(instagram-logo.png);
+  display: block;
+  margin: 0 auto;
+  text-indent: -9999px;
+  width: 981px;
+  height: 180px; */
+}
