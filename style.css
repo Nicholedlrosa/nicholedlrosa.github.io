@@ -7,6 +7,7 @@ body {
 }
 
 img {
+  border-radius: 20px;
   border: solid 3px;
   padding: 4px;
   border-color: aquamarine;
@@ -30,29 +31,23 @@ p {
   background-image: url(instagram-logo.png);
   display: inline-block;
   background-size: cover;
-  width: 100px;
-  height: 100px;
-  margin: auto;
-  color: whitesmoke;
+  width: 60px;
+  height: 60px;
   text-decoration: none;
 }
 
-#mail {
-  background-image: url(gmail-logo.jpg);
+#email {
+  background-image: url(gmail.jpg);
   display: inline-block;
   background-size: cover;
-  width: 100px;
-  height: 100px;
-  margin: auto;
-  color: whitesmoke;
+  width: 60px;
+  height: 60px;
   text-decoration: none;
 }
 
-footer {
-  /* background-image: url(instagram-logo.png);
-  display: block;
-  margin: 0 auto;
-  text-indent: -9999px;
-  width: 981px;
-  height: 180px; */
-}
+/* footer {
+ text-align: auto;
+ animation
+ animation-direction: alternate;
+ animation-duration: 30s;
+} */
